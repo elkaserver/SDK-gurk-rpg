@@ -1,2 +1,4 @@
-# SDK-gurk-rpg
-SDK gurk rpg 1, SDK gurk rpg 2
+# SDK gurk rpg
+SDK imports and exports.
+
+SDK not a visual window.
